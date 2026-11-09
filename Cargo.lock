@@ -3419,18 +3419,18 @@ dependencies = [
 
 [[package]]
 name = "sf-nano-core"
-version = "0.6.0"
+version = "0.7.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "ef6f18765f98cb164a24e26579805c5dd9e5cfe8c0b0b0e23fe53e69e9ecbd5b"
+checksum = "b1408d9a8a08fd621c6714419d090a34648c28b2d8e6ab6b2c820cfe64e9022a"
 dependencies = [
  "sf-nano-tracked-alloc",
 ]
 
 [[package]]
 name = "sf-nano-tracked-alloc"
-version = "0.6.0"
+version = "0.7.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "e98ce29893260ea7748c50bf3b241e50bda267e4748be31d2570fec7c4090743"
+checksum = "4ecac49145e9b4f4c27ee4377f54666cd874b84ac7b53f7b76a4b71158676252"
 
 [[package]]
 name = "sha2"
